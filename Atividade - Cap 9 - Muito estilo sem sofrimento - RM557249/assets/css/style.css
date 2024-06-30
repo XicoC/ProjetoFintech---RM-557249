@@ -1,0 +1,120 @@
+
+
+
+    body{
+
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        background-color:#24CAC0;
+        height: 100vh;
+        }
+
+    .Tela-Login
+    {
+        margin-top: 5%;
+        margin-left: 90%;
+        margin-right: 90%;
+        margin-bottom: 5%;
+        background: #e4e6eb;
+        padding: 20px;
+        box-sizing: border-box;
+        border-radius: 10px;
+        box-shadow: 3px 4px 5px 30px #eee7e7;
+    }
+
+    
+    .card-img-top
+    {
+        width: 40%;
+        height: auto;
+        margin: 5% 5% 5% 30%;
+        
+    }
+
+    .b-vindas
+    {
+
+        padding: 20px;
+    }
+
+    
+h2{
+        text-align: center;
+        margin-top: 5px;
+        text-size-adjust: 20px;
+        text-transform: uppercase;
+        font-weight:bold;
+        
+    }
+
+    h3{
+        text-align: center;
+        margin-bottom: 5px;
+        font-weight: bold;
+        font-size: 25px;
+    }
+
+    .form-group{
+        margin-bottom: 15px;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+    
+    .form-control {
+        width: 100%;
+        padding: 10px;
+        border: 3px solid #24CAC0;
+        border-radius: 10px;
+    }
+    
+    .btn-primary {
+        background-color: #24CAC0;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        box-shadow: 1px 1px 10px 1px #24CAC0;
+        margin-top: 15px;
+        margin-bottom: 30px;
+        width: 148px ;
+        height: 40px;
+        text-align: center;
+        font-size: 16px;
+        display: inline-block;
+        margin: 5px;
+    }
+
+    .btn-secondary
+    {
+        color: #fff;
+        border-radius: 10px;
+        cursor:pointer;
+        box-shadow: 1px 1px 10px 1px #24CAC0;
+        margin-top: 15px;
+        margin-bottom: 30px;
+        width: 148px ;
+        height: 40px;
+        text-align: center;
+        font-size: 15.5px;
+        display: inline-block;
+        margin: 5px;
+    }
+
+    .btn-outline-secondary
+    {
+        width: 150px ;
+        height: 40px;
+        text-align: center;
+        font-size: 16px;
+        display: inline-block;
+        margin: 5px;
+
+    }
+    
+
+    
+
+
+    
+
